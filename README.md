@@ -48,7 +48,7 @@ After forking, you will work from your copy of the repository.
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/git-practice-group.git
+
 ```
 
 Then move into the project folder:
@@ -65,7 +65,7 @@ What just happened:
 Check that everything worked:
 
 ```bash
-git status
+
 ```
 
 ---
@@ -75,7 +75,7 @@ git status
 Now create a new branch where you will make your change.
 
 ```bash
-git checkout -b add-my-name
+
 ```
 
 What this does:
@@ -88,7 +88,7 @@ Multiple people can work on the project at the same time without breaking the ma
 Check your branch:
 
 ```bash
-git branch
+
 ```
 
 Your branch should have a star next to it.
@@ -153,7 +153,7 @@ Now you are back in the terminal.
 Now tell Git that you want to include your change in the next commit.
 
 ```bash
-git add participants.md
+
 ```
 
 What this does:
@@ -162,7 +162,7 @@ Moves your changes into the staging area.
 You can check it worked:
 
 ```bash
-git status
+
 ```
 
 You should see the file listed under:
@@ -175,7 +175,7 @@ Changes to be committed
 Now create a commit.
 
 ```bash
-git commit -m "Added my name to the participants list"
+
 ```
 
 What a commit is:
@@ -196,7 +196,7 @@ You just created a new commit on your branch.
 Now upload your branch to GitHub.
 
 ```bash
-git push origin add-my-name
+
 ```
 
 What this means:
