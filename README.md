@@ -249,3 +249,12 @@ Your work becomes part of the project.
 Congratulations — you contributed to a repository!
 
 ---
+
+# Bonus Challenge 
+
+After completing the assignment, try the following in groups: 
+
+1. Create a new folder
+2. Create a new file in the folder (Choose which programming language you would like to use)
+3. Create a program in that file (i.e., guessing game, calculator, etc)
+4. Add and commit your changes
